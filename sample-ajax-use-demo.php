@@ -1,11 +1,12 @@
 <?php
 /*
 Plugin Name: sample ajax use demo
-Plugin URI: http://themefoundation.com/
-Description: Provides a starting point for creating custom meta boxes.Try it by adding show_cat(); function in your template.
-Author: Theme Foundation
+Plugin URI: http://hellosurya.com.np/
+Description: Provides a starting point for creating ajax call.Try it by adding show_cat(); function in your template.
+This plguin shows the simple example about wp_localize_script and wp_nonce for security purpose. 
+Author: developerSurya
 Version: 1.0
-Author URI: http://themefoundation.com/
+Author URI: http://hellosurya.com.np/
 */
 /**
  * Adds a meta box to the post editing screen
